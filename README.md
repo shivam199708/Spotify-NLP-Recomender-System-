@@ -1,5 +1,5 @@
 # Spotify NLP Recommender System
-![Spotify NLP Recommender]https://raw.githubusercontent.com/shivam199708/Spotify-NLP-Recomender-System-/refs/heads/main/spotify.webp
+![Spotify NLP Recommender](https://raw.githubusercontent.com/shivam199708/Spotify-NLP-Recomender-System-/refs/heads/main/spotify.webp)
 ## Overview
 The Spotify NLP Recommender System is an innovative project that enhances music recommendations using Natural Language Processing (NLP) techniques. This project leverages Spotify's dataset and advanced NLP methods to analyze textual data and provide personalized music recommendations to users. It combines data preprocessing, feature engineering, and machine learning to create an efficient and intelligent recommendation system.
 
